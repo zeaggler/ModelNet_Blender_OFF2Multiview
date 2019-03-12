@@ -21,6 +21,7 @@ Because the blender install path is various with different OS,  you should assig
 ```bash
 <blender install path> phong.blend --background --python phong.py -- <model file> <output dir>
 ```
+The followings are examples, you should change the absolute blender install path in win10.
 
 ### Single .off 
 Win10:
