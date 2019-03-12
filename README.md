@@ -24,13 +24,13 @@ Because the blender install path is various with different OS,  you should assig
 ### Single .off 
 Win10:
 
-```python
+```bash
 "C:\Program Files\Blender Foundation\Blender\blender.exe" phong.blend --background --python phong.py -- .\\single_off_samples\\airplane_0001.off .\\single_samples_MV
 ```
 
 Ubuntu:
 
-```python
+```bash
 blender phong.blend --background --python phong.py -- ./single_off_samples/airplane_0001.off ./single_samples_MV
 ```
 
@@ -40,12 +40,12 @@ blender phong.blend --background --python phong.py -- ./single_off_samples/airpl
 
 Win10:
 
-```python
+```bash
 "C:\Program Files\Blender Foundation\Blender\blender.exe" phong.blend --background --python phong.py -- dataset.txt .\dataset_samples_MV
 ```
 
 Ubuntu:
 
-```python
+```bash
 blender phong.blend --background --python phong.py -- dataset.txt ./dataset_samples_MV
 ```
