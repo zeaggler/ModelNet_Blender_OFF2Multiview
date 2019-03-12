@@ -80,9 +80,8 @@ def main():
         with open(model_path) as f:
             models = f.read().splitlines()
         for model in models:
-            one_model = model[:-2]
-            print('model path is ********', one_model) # model_path:'F:\DATA3D\ModelNet10\monitor\train\monitor_0003.off'
-            do_model(one_model, image_dir)
+            print('model path is ********', model) # model_path:'F:\DATA3D\ModelNet10\monitor\train\monitor_0003.off'
+            do_model(model, image_dir)
     else:
         print('......Please input correct parameters......')
         exit(-1)
