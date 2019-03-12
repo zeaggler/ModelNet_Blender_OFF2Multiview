@@ -1,5 +1,5 @@
 # BlenderPhong
-
+First, thanks for the work of weitang, this code is revised from https://github.com/WeiTang114/BlenderPhong
 A Blender python script to render an 3D model object by Phong Shading from several viewpoints.
 We currently support **.obj**, **.stl**, and **.off** files.
 
