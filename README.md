@@ -5,7 +5,7 @@ We currently support **.obj**, **.stl**, and **.off** files.
 
 This is an output from `airplane.off`:
 
-<img src="https://img-blog.csdnimg.cn/20190312104505313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2pvcmdfemhhbw==,size_16,color_FFFFFF,t_70" width="200">
+<img src="https://img-blog.csdnimg.cn/20190312104505313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2pvcmdfemhhbw==,size_16,color_FFFFFF,t_70" width="800">
 
 We use [blender-off-addon](https://github.com/alextsui05/blender-off-addon) for off importing support.
 
