@@ -1,11 +1,17 @@
 # BlenderPhong
 First, thanks for the work of weitang, this code is revised from https://github.com/WeiTang114/BlenderPhong.
 
+
 ---
+
 中文博客地址：
+
 https://blog.csdn.net/jorg_zhao/article/details/86309774
+
 https://blog.csdn.net/jorg_zhao/article/details/88345324
+
 ---
+
 
 This is an output from `airplane.off`:
 
