@@ -1,9 +1,0 @@
-.\dataset_samples\airplane\airplane_0001.off
-.\dataset_samples\airplane\airplane_0002.off
-.\dataset_samples\airplane\airplane_0003.off
-.\dataset_samples\bathtub\bathtub_0001.off
-.\dataset_samples\bathtub\bathtub_0002.off
-.\dataset_samples\bathtub\bathtub_0003.off
-.\dataset_samples\bed\bed_0001.off
-.\dataset_samples\bed\bed_0002.off
-.\dataset_samples\bed\bed_0003.off
